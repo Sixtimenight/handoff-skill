@@ -1,5 +1,10 @@
 ﻿# Handoff Context Compression
 
+---
+name: handoff-context
+description: Compress the current conversation into a self-contained 3000–5000 token context snapshot for continuing in a new Codex conversation. Use for generating a handoff without project workspace management.
+---
+
 ## Purpose
 
 Create a compact, self-contained context snapshot for continuing the current task in a new Codex conversation.
@@ -13,7 +18,7 @@ Use this skill when the user asks for any of the following:
 - `鍘嬬缉涓婁笅鏂嘸
 - `缁欐柊瀵硅瘽鍑嗗涓婁笅鏂嘸
 - `鎬荤粨缁欎笅涓璇漙
-- `/handoff`
+- `/handoff-context`
 
 ## Core behavior
 

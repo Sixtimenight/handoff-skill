@@ -21,7 +21,7 @@
 在对话中输入：
 
 ```text
-生成 handoff
+/handoff-context
 ```
 
 默认输出约 3000–5000 tokens。另支持 `极限版` 和 `详细版`。
